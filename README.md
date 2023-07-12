@@ -1,3 +1,3 @@
-# BacodeGen-with-Labelary
+# BarcodeGen-with-Labelary
 
 will be filled later...
